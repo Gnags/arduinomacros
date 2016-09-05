@@ -1,7 +1,7 @@
 {
-    "name": "httpsclient-particle",
-    "author": "Vamsi Vytla",
+    "name": "arduinomacros",
+    "author": "Michael Spangaard",
     "license": "GPL",
-    "version": "0.0.8",
-    "description": "A library that helps photon boards talk https to web servers"
+    "version": "0.0.0",
+    "description": "A library defining common Arduino macros"
 }
