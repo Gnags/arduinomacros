@@ -19,7 +19,8 @@
 
 #define prt(x) Serial.print(x)
 #define prtln(x) Serial.println(x)
-#define prt2(x,y) prt(x);prt(y); prt(" ");
+#define prt2(x,y) prt(x);prt(y); prt(" ")
 #define prtln2(x,y) prt(x);prtln(y)
 
+#define kk Serial.println("kk")
 #endif
