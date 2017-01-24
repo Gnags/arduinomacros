@@ -22,5 +22,10 @@
 #define prt2(x,y) prt(x);prt(y); prt(" ")
 #define prtln2(x,y) prt(x);prtln(y)
 
+
+#define p(x) Serial.print(x);
+#define pl(x) Serial.println(x);
+
 #define kk Serial.println("kk")
+
 #endif
